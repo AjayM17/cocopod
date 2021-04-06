@@ -22,7 +22,7 @@ pod 'newpoddemo'
 
 ## Author
 
-44175114, ajaymandrawal17@gmai.com
+44175114, ajaymandrawal17@gmail.com
 
 ## License
 
